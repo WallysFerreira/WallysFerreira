@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](/metrics.plugin.language.svg)
+![Metrics](/languages.svg)
