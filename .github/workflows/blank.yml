@@ -31,5 +31,5 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_token: ${{ secrets.lastfm_api }}
           plugin_music_user: Coopyland
-          plugin_music_mode: top
-          plugin_music_time_range: long
+          plugin_music_mode: recent
+          plugin_music_limit: 2
