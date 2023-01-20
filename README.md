@@ -16,3 +16,5 @@ colocar os metrics dentro de um menu escondivel
 -->
 
 ![Metrics](/languages.svg)
+
+![Metrics](/music.svg)
