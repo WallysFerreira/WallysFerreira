@@ -17,6 +17,6 @@ colocar os metrics dentro de um menu escondivel
 
 # This is a test
 
-<p>If you want to see this test in portuguese <u href="/index.md">click here</u></p>
+<p>If you want to see this test in portuguese <u href="/teste.md">click here</u></p>
 
 ![Metrics](/languages.svg)
