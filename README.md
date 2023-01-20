@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 colocar os metrics dentro de um menu escondivel
 -->
 
+<details><summary>Interesses</summary>
+  Teste
+</details>
 ![Metrics](/languages.svg)
 
 ![Metrics](/music.svg)
