@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p>
+<p align="center">
   <img src="/languages.svg">
   <img src="/music.svg">  
 </p>
