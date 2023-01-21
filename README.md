@@ -12,12 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-colocar os metrics dentro de um menu escondivel
 -->
 
-<details><summary>Interesses</summary>
+
+
+<!-- sobre mim em topicos talvez -->
+<details>
+  <summary><b>Sobre mim<b></summary>
   Teste
 </details>
-![Metrics](/languages.svg)
-
-![Metrics](/music.svg)
+    
+<p>
+  <img src="/languages.svg">
+  <img src="/music.svg">  
+</p>
