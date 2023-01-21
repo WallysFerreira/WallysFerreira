@@ -13,15 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<a href="linkedin.com"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<div align="center">
+  <p><b>Oi, eu sou Wallys Ferreira.</b></p>
+  <p>Estudante de programação e apaixonado por áudio</p>
+</div>
 
-
+---
 
 <!-- sobre mim em topicos talvez -->
 <details>
-  <summary><b>Sobre mim<b></summary>
-  Teste
+  <summary font-size="24px"><b>Sobre mim</b></summary>
+  <br>
+  <p>Moro em Recife e estudo Análise e Desenvolvimento de Sistemas na Faculdade Senac PE pelo Embarque Digital.</p>
 </details>
-    
+
+---
+
 <p>
   <img src="/languages.svg">
   <img src="/music.svg">  
