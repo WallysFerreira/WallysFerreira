@@ -20,7 +20,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, makefile
+            html, css, makefile, Shell
                                      
       - name: Lastfm
         uses: lowlighter/metrics@latest
