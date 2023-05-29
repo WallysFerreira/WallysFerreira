@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <div align="center">
   <p><b>Oi, eu sou Wallys Ferreira.</b></p>
   <p>Estudante de programação apaixonado por áudio</p>
+  <a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank">LinkedIn</a> 
 </div>
 
 ---
