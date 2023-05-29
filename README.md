@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p><b>Oi, eu sou Wallys Ferreira.</b></p>
   <p>Estudante de programação apaixonado por áudio</p>
-  <a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank">LinkedIn</a> 
+  <a href="mailto:wallysfsilva@gmail.com" target="_blank">wallysfsilva@gmail.com</a> | <a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank">LinkedIn</a> 
 </div>
 
 ---
