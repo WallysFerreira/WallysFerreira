@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <p>Estudante de programação apaixonado por áudio</p>
 </div>
 
+<!--
 ---
 <details>
   <summary><b>Interesses</b></summary>
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
   <summary font-size="24px"><b>Sobre mim</b></summary>
   <p>Moro em Recife e estudo Análise e Desenvolvimento de Sistemas na Faculdade Senac PE pelo Embarque Digital. Antes de começar a estudar programação atuei em jogos e produções audiovisuais indies na área de som, fazendo de tudo desde gravação de som direto até sound design e composição de música.</p>
 </details>
+-->
 
 ---
 
