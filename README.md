@@ -19,24 +19,26 @@ Here are some ideas to get you started:
   <p>Estudante de programação apaixonado por áudio</p>
 </div>
 
-<!--
 ---
+<p><b>Interesses</b></p>
+<ul>
+  <li><i>Digital Signal Processing</i> e Áudio</li>
+  <li>Sistemas Embarcados</li>
+  <li>Desenvolvimento Web</li>
+  <li>Desenvolvimento de jogos</li>
+</ul>
+
+<!--
 <details>
   <summary><b>Interesses</b></summary>
   <ul>
     <li><i>Digital Signal Processing</i> e Áudio</li>
-    <li>Desenvolvimento web</li>
-    <li>Inteligência artificial</li>
+    <li>Sistemas Embarcados</li>
+    <li>Desenvolvimento Web</li>
     <li>Desenvolvimento de jogos</li>
   </ul>
 </details>
-<!-- sobre mim em topicos talvez -->
-<details>
-  <summary font-size="24px"><b>Sobre mim</b></summary>
-  <p>Moro em Recife e estudo Análise e Desenvolvimento de Sistemas na Faculdade Senac PE pelo Embarque Digital. Antes de começar a estudar programação atuei em jogos e produções audiovisuais indies na área de som, fazendo de tudo desde gravação de som direto até sound design e composição de música.</p>
-</details>
 -->
-
 ---
 
 <p>
