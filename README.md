@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,c,cpp,java,nodejs,rust,py,linux,mongodb,postgresql" />
+</div>
 <p><b>Interesses</b></p>
 <ul>
   <li><i>Digital Signal Processing</i> e Áudio</li>
