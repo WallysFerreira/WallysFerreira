@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <li><i>Digital Signal Processing</i> e Áudio</li>
   <li>Sistemas Embarcados</li>
   <li>Desenvolvimento Web</li>
-  <li>Desenvolvimento de jogos</li>
+  <li>Desenvolvimento Mobile</li>
 </ul>
 
 <!--
