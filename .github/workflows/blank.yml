@@ -21,7 +21,7 @@ jobs:
           plugin_languages_limit: 5
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, makefile, Shell, CMake
+            html, css, makefile, Shell, CMake, Jupyter Notebook
                                      
       - name: Lastfm
         uses: lowlighter/metrics@latest
