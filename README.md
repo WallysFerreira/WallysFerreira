@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,c,cpp,java,nodejs,rust,py,linux,mongodb,postgresql" />
 </div>
+<!--
 <p><b>Interesses</b></p>
 <ul>
   <li><i>Digital Signal Processing</i> e Áudio</li>
@@ -30,7 +32,6 @@ Here are some ideas to get you started:
   <li>Desenvolvimento Web</li>
 </ul>
 
-<!--
 <details>
   <summary><b>Interesses</b></summary>
   <ul>
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
   </ul>
 </details>
 -->
+
 ---
 
 <p>
