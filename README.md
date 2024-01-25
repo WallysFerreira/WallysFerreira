@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,c,cpp,java,nodejs,rust,py,linux,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,elixir,cs,rust,linux,mongodb,postgresql,redis,rabbitmq" />
 </div>
 <!--
 <p><b>Interesses</b></p>
