@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-  <p><b>Oi, eu sou Wallys Ferreira.</b></p>
-  <p>Estudante interessado em programação de baixo nível e desenvolvimento web</p>
+  <p><b>Hi, I'm Wallys Ferreira</b></p>
+  <p>Student with great interest in low level programming and web development</p>
   <a href="mailto:wallysfsilva@gmail.com" target="_blank">wallysfsilva@gmail.com</a> | <a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank">LinkedIn</a> 
 </div>
 
