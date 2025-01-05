@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <p><b>Hi, I'm Wallys Ferreira</b></p>
-  <p>Student with great interest in low level programming and web development</p>
+  <p>Software engineer with great interest in building highly scalable and robust systems</p>
   <a href="mailto:wallysfsilva@gmail.com" target="_blank">wallysfsilva@gmail.com</a> | <a href="https://www.linkedin.com/in/wallys-ferreira-a16b8417b/" target="_blank">LinkedIn</a> 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,elixir,go,java,ts,cs,linux,mongodb,postgresql,redis,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=java,rust,go,linux,mongodb,postgresql,redis,rabbitmq,aws" />
 </div>
 <!--
 <p><b>Interesses</b></p>
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 </ul>
 
 <details>
-  <summary><b>Interesses</b></summary>
+  <summary><b>Interests</b></summary>
   <ul>
-    <li><i>Digital Signal Processing</i> e Áudio</li>
-    <li>Sistemas Embarcados</li>
-    <li>Desenvolvimento Web</li>
-    <li>Desenvolvimento de jogos</li>
+    <li><i>Digital Signal Processing</i></li>
+    <li>System Design</li>
+    <li>Distributed Systems</li>
+    <li>Stream processing</li>
   </ul>
 </details>
 -->
